@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pract2_Collection", "Pract2_Collection\Pract2_Collection.csproj", "{FBF23374-01C2-4D8F-A85E-33C550730202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descriminant_procent", "Descriminant_procent\Descriminant_procent.csproj", "{A0FE0464-1EF9-4B04-9309-A2C8E891DD44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF23374-01C2-4D8F-A85E-33C550730202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF23374-01C2-4D8F-A85E-33C550730202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF23374-01C2-4D8F-A85E-33C550730202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF23374-01C2-4D8F-A85E-33C550730202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0FE0464-1EF9-4B04-9309-A2C8E891DD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FE0464-1EF9-4B04-9309-A2C8E891DD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FE0464-1EF9-4B04-9309-A2C8E891DD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FE0464-1EF9-4B04-9309-A2C8E891DD44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {004A1724-B953-4955-8937-7887FABAF42A}
+	EndGlobalSection
+EndGlobal
