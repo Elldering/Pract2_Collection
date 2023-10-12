@@ -69,13 +69,13 @@ namespace Pract2_Collection
         public void SearchProcient_retuned100()
         {
             // Тест с дельтой равной 0.01
-            double number = 500.0f;
-            double percentage = 0.0f;
-            double expected = 0.0f;
-            double delta = 0.001f;
+            double number = 500.0f; // число
+            double percentage = 0.0f; // процент
+            double expected = 0.0f; //ожидаемый результат
+            double delta = 0.001f; //дельта числа. То сть погрешность
 
             Descriminanit_procent sd = new Descriminanit_procent();
-            double result = sd.SearchProcient(number, percentage);
+            double result = sd.SearchProcient(number, percentage); // Фактический ррезультат
 
             Assert.AreEqual(expected, result, delta, $"Сравниваем число {result} с числом {expected}, где погрешность = {delta}");
         }
